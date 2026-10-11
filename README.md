@@ -128,14 +128,22 @@ A database backup and operations utility built around practical backup workflows
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=durwinam&bg_color=05080D&color=C9D1D9&line=00F5D4&point=00B4D8&area=true&area_color=063B3B&hide_border=true&custom_title=Contribution%20Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durwinam&theme=github_dark"
     width="100%"
-    alt="GitHub contribution activity graph"
+    alt="GitHub profile contribution summary"
+  />
+
+  <br />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=durwinam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&icon_color=00B4D8&rank_icon=github"
+    height="160"
+    alt="GitHub profile statistics"
   />
 
 </div>
 
-<sub>Activity graph data is supplied by an external GitHub visualization service and may be cached.</sub>
+<sub>These cards fetch profile data from external services. They may take time to refresh or be temporarily unavailable.</sub>
 
 ## `./principles`
 
@@ -168,3 +176,4 @@ principles = [
   <sub><code>BUILD · AUTOMATE · IMPROVE</code></sub>
 
 </div>
+
