@@ -6,9 +6,9 @@
   />
 
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:05080D,50:0B2028,100:05080D&height=3&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:063B3B,100:00F5D4&height=130&section=header&animation=twinkling"
     width="100%"
-    alt=""
+    alt="Animated cyber-style header"
   />
 
   <p>
@@ -27,6 +27,15 @@
     <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f981.svg" width="24" height="24" alt="Lion" />
     <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2600.svg" width="24" height="24" alt="Sun" />
   </p>
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=500&color=00F5D4&center=true&vCenter=true&repeat=true&width=720&height=36&lines=%5B+INITIALIZING+SECURE+SHELL+%5D;%24+scan+--tls+--sni+%3Cdomain%3E;%24+backup+--verify+--automate;%5B+BUILDING+TOOLS%2C+NOT+NOISE+%5D"
+    alt="Animated hacker-style terminal commands"
+  />
 
 </div>
 
@@ -113,6 +122,20 @@ Network and TLS diagnostics for domain checks, SNI/TLS analysis, connection test
 A database backup and operations utility built around practical backup workflows, automation, and server-side management.
 
 **Focus:** Python · Databases · PostgreSQL · TimescaleDB · Docker · Linux
+
+## `./activity`
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=durwinam&bg_color=05080D&color=C9D1D9&line=00F5D4&point=00B4D8&area=true&area_color=063B3B&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+
+</div>
+
+<sub>Activity graph data is supplied by an external GitHub visualization service and may be cached.</sub>
 
 ## `./principles`
 
